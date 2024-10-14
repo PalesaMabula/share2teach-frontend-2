@@ -28,7 +28,7 @@ export const routes: Routes = [
     component:FAQComponent
   },
   { 
-    path: 'document-rating/:id', component: DocumentRatingComponent 
+    path: 'document-rating', component: DocumentRatingComponent 
   },
   { 
     path: 'user-analytics', component: UserAnalyticsComponent
